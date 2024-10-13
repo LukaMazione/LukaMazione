@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm Mazione, and I'm working towards becoming a fu
 
 ### 🌱 What I'm learning:
 - **React** (in TypeScript) and **Nest.js** are my current focus areas.
-- I'm also exploring new tools and technologies, such as **OpenAI** for future projects.
+- I'm also exploring new tools and technologies, such as **OpenAI API** for future projects.
 
 ### 📂 Profile Structure:
 - **Main Repositories**: This is where my key projects will be displayed.
