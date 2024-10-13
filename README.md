@@ -15,8 +15,8 @@ Welcome to my GitHub profile! I'm Mazione, and I'm working towards becoming a fu
 - **Main Repositories**: This is where my key projects will be displayed.
 - **Organizations**: 
   - **MyFrontEndPathways**: This includes technologies like **HTML**, **CSS**, **SCSS**, **Bootstrap**, and some **JavaScript**.
-  - **BackendOrg**: A focus on backend development using **Node.js**, **Express.js**, **MySQL**, **MongoDB**, **TypeScript**, and my initial journey with **JavaScript**.
-  - **ReactOrg**: As the name suggests, this is where you can find my **React** projects, all developed in **TypeScript**. I currently have two small projects that are public and ready to explore.
+  - **BackendPathways**: A focus on backend development using **Node.js**, **Express.js**, **MySQL**, **MongoDB**, **TypeScript**, and my initial journey with **JavaScript**.
+  - **ReactPathways**: As the name suggests, this is where you can find my **React** projects, all developed in **TypeScript**. I currently have two small projects that are public and ready to explore.
 
 ### 💬 Feel free to reach out if:
 - You want to collaborate on interesting full-stack projects.
