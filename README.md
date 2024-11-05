@@ -3,9 +3,9 @@
 Welcome to my GitHub profile! I'm Mazione, and I'm working towards becoming a full-stack developer.
 
 ### 🔭 What I'm working on:
-- I'm currently organizing my profile, so things are still a bit messy!
-- My most important projects will soon be available on the main page (Repositories).
-- My top project is a backend built with **Express.js**, **TypeScript**, and **MySQL**. It's still private, but I'm also learning **React** and **Nest.js** to enhance it.
+- Currently, I'm organizing my GitHub profile. All the projects I created during my learning journey are private for now.
+- As I review some of my project, I’ll gradually make them public, incorporating new skills and improvements I've learned along the way.
+- My primary projects will be showcased on the main page (Repositories), featuring my own work. One key project is already there under the backend pathway but is still private for now.
 
 ### 🌱 What I'm learning:
 - **React** (in TypeScript) and **Nest.js** are my current focus areas.
@@ -24,5 +24,3 @@ Welcome to my GitHub profile! I'm Mazione, and I'm working towards becoming a fu
 
 ### ⚡ Fun fact:
 - I'm constantly looking for ways to improve my coding skills and love experimenting with new frameworks and libraries!
-
-
