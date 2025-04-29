@@ -3,9 +3,13 @@
 Welcome to my GitHub profile! I'm Mazione, and I'm working towards becoming a full-stack developer.
 
 ### 🔭 What I'm working on:
-- Currently, I'm organizing my GitHub profile. All the projects I created during my learning journey are private for now.
-- As I review some of my project, I’ll gradually make them public, incorporating new skills and improvements I've learned along the way.
-- My primary projects will be showcased on the main page (Repositories), featuring my own work. One key project is already there under the backend pathway but is still private for now.
+I'm currently focusing on building my main fullstack project:
+Automotive Task Management App — a system for tracking job cards, tasks, and work sessions, built with React, Express, and MySQL, secured via VPN for remote access.
+This is my key project right now, and I'm planning to deploy it in October 2025.
+
+Alongside that, I'm organizing my GitHub profile. All the projects I created during my learning journey are private for now.
+As I review some of my work, I’ll gradually make them public, incorporating new skills and improvements I've learned along the way.
+My primary projects will be showcased on the main page (Repositories), featuring my own work. One key project is already there under the backend pathway but is still private for now.
 
 ### 🌱 What I'm learning:
 - **React** (in TypeScript) and **Nest.js** are my current focus areas.
