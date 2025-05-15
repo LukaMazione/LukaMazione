@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm Mazione, and I'm working towards becoming a fu
 
 ### 🔭 What I'm working on:
 I'm currently focusing on building my main fullstack project:
-***Automotive Task Management App*** — a system for tracking job cards, tasks, and work sessions, built with React, Express, and MySQL, secured via VPN for remote access.
+***Automotive Task Management App*** — a system for tracking job cards, tasks, and work sessions, built with React, Express using typescript, and MySQL, secured via VPN for remote access.
 This is my key project right now, and I'm planning to deploy it in October 2025.
 
 Alongside that, I'm organizing my GitHub profile. All the projects I created during my learning journey are private for now.
